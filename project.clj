@@ -3,4 +3,6 @@
   :url "http://example.com/FIXME"
   :license {}
   :dependencies [[org.clojure/clojure "1.11.1"]
-                 [quil "3.1.0"]])
+                 [quil "3.1.0"]
+                 [net.mikera/core.matrix "0.63.0"]]
+  :main raycasting.core)
